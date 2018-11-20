@@ -1,3 +1,7 @@
-# coba coba git bro..
+# Coba Coba Git Bro..
 
-Heloo git
+Hai.. git 
+
+# Tamabah Aktivitas
+
+Sedang Belajar..
