@@ -2,6 +2,6 @@
 
 Hai.. git 
 
-# Tamabah Aktivitas
+# Tambah Aktivitas
 
 Sedang Belajar..
