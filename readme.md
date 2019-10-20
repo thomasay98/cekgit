@@ -7,3 +7,5 @@ Hai.. git
 Sedang Belajar..
 masih belajar..
 berusaha..
+
+# Ready..
