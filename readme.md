@@ -9,3 +9,6 @@ masih belajar..
 berusaha..
 
 # Ready..
+
+1	2	Go..!
+
